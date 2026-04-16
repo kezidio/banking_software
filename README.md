@@ -42,14 +42,6 @@ Basic financial logic
 Object-oriented programming (if applicable)
 
 
-📂 Structure
-
-main.py – Main program file
-
-accounts.py – Account-related logic (if applicable)
-
-loans.py – Loan and interest calculations (if applicable)
-
 📈 Future Improvements
 
 Add a graphical user interface (GUI)
