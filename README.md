@@ -2,6 +2,7 @@
 
 This project is a simple banking application developed in Python that simulates core financial operations. It includes features for managing checking and savings accounts, as well as calculating loan interest.
 
+
 📌 Features
 Create and manage checking accounts
 Create and manage savings accounts
